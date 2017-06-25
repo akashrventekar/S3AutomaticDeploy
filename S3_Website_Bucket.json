@@ -8,7 +8,7 @@
       "Type" : "AWS::S3::Bucket",
       "Properties" : {
         "AccessControl" : "PublicRead",
-		"BucketName" : "cf-templates-1oovhy8v24ee5-us-east-1",
+		"BucketName" : "cf-templates-1oovhy8v24ee6-us-east-1",
         "WebsiteConfiguration" : {
           "IndexDocument" : "index.html",
           "ErrorDocument" : "error.html"      
